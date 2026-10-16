@@ -1,6 +1,5 @@
 # Hi, I'm Wanjiru 👋
-
-Leveraging a unique cross-disciplinary background blending applied statistics , data science and psychology, I specialize in turning complex behavioral and organizational datasets into actionable, strategic solutions. I utilize advanced statistical modeling, predictive analytics, and rigorous experimental design to identify trends, optimize processes, and resolve systemic pain points across diverse industries.
+I’m a data science graduate student finishing my M.S. in Applied Statistics & Data Science at the University of Texas at Arlington. My path into data science started with a B.S. in Data Science and a concentration in psychology, which taught me that every dataset tells a story about real people. Since then, I've worked hands-on with real-world data, from collecting and cleaning survey data to supporting public health data work. I'm detail-oriented, curious, and always looking for the problem worth solving. I'm proud of what I've built so far and excited to keep learning as I take the next step in my data science career
 
 ## 📊 Projects
 
