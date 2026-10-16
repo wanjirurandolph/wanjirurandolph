@@ -21,7 +21,7 @@ those denials on appeal.
 ## 💼 Experience
 - **Impact Data Assistant, Girls Inc. of Metropolitan Dallas**: administer, clean, and
   validate youth health and well-being survey data
-- **Public Health Data & Informatics Intern, GET PHIT Consortium (UTHealth Houston)**:
+- **Public Health Data & Informatics Intern, GET PHIT (UTHealth Houston)**:
   placed at Latinx Voces in Dallas–Fort Worth
 
 ## 🛠️ Tools
