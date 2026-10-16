@@ -1,8 +1,6 @@
 # Hi, I'm Wanjiru 👋
 
-I'm an M.S. Applied Statistics & Data Science student at the University of Texas at Arlington.
-My background is in data science and psychology, and I'm interested in using data to find and
-fix pain points in healthcare, especially around access to care and health equity.
+Leveraging a unique cross-disciplinary background blending applied statistics , data science and psychology, I specialize in turning complex behavioral and organizational datasets into actionable, strategic solutions. I utilize advanced statistical modeling, predictive analytics, and rigorous experimental design to identify trends, optimize processes, and resolve systemic pain points across diverse industries.
 
 ## 📊 Projects
 
