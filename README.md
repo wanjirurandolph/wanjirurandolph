@@ -22,8 +22,7 @@ those denials on appeal.
 - **Impact Data Assistant, Girls Inc. of Metropolitan Dallas**: administer, clean, and
   validate youth health and well-being survey data
 - **Public Health Data & Informatics Intern, GET PHIT (UTHealth Houston)**:
-  placed at Latinx Voces in Dallas–Fort Worth
-
+  placed at Latinx Voces
 ## 🛠️ Tools
 Python (pandas, scikit-learn, statsmodels, seaborn) · SQL (DuckDB) · R · Jupyter · Git
 
