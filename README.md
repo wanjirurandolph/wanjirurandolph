@@ -24,4 +24,4 @@ those denials on appeal.
 Python (pandas, scikit-learn, statsmodels, seaborn) · SQL (DuckDB) · R · Jupyter · Git
 
 ## 🤝 Connect
-[LinkedIn](https://www.linkedin.com/jobs/search-results/?currentJobId=4452925549&keywords=vizient&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=75&geoId=103644278&distance=-1.0)
+[LinkedIn](www.linkedin.com/in/wanjirurandolph)
