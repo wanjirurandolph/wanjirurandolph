@@ -3,7 +3,7 @@ I’m a data science graduate student finishing my M.S. in Applied Statistics & 
 
 ## 📊 Projects
 
-**[Psychiatric ER Boarding](https://github.com/wanjirurandolph/Psychiatric-ER-Boarding)**
+**[Psychiatric ER Length of Stay](https://github.com/wanjirurandolph/Psychiatric-ER-Boarding)**
 Which hospitals have the longest ER waits for mental health patients? I built a hospital-level
 dataset from CMS data in SQL (DuckDB) and used machine learning to find the hospital
 characteristics linked to the longest waits.
@@ -24,4 +24,4 @@ those denials on appeal.
 Python (pandas, scikit-learn, statsmodels, seaborn) · SQL (DuckDB) · R · Jupyter · Git
 
 ## 🤝 Connect
-[LinkedIn](linkedin.com/in/wanjirurandolph)
+[LinkedIn](https://www.linkedin.com/jobs/search-results/?currentJobId=4452925549&keywords=vizient&origin=SEMANTIC_SEARCH_LANDING_PAGE&start=75&geoId=103644278&distance=-1.0)
