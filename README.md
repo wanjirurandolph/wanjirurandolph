@@ -1,5 +1,5 @@
 # Hi, I'm Wanjiru 👋
-I’m a data science graduate student finishing my M.S. in Applied Statistics & Data Science at the University of Texas at Arlington. My path into data science started with a B.S. in Data Science and a concentration in psychology, which taught me that every dataset tells a story about real people. Since then, I've worked hands-on with real-world data, from collecting and cleaning survey data to supporting public health data work. I'm detail-oriented, curious, and always looking for the problem worth solving. I'm proud of what I've built so far and excited to keep learning as I take the next step in my data science career
+I’m a data science graduate student finishing my M.S. in Applied Statistics & Data Science at the University of Texas at Arlington. My path into data science started with a B.S. in Data Science and a concentration in psychology, which taught me that every dataset tells a story about real people. Since then, I've worked hands-on with real-world data, from collecting and cleaning survey data to supporting public health data work. I'm detail-oriented, curious, and always looking for the next problem worth solving. I'm proud of what I've built so far and excited to keep learning as I take the next step in my data science career
 
 ## 📊 Projects
 
