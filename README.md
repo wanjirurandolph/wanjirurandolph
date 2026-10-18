@@ -24,4 +24,4 @@ those denials on appeal.
 Python (pandas, scikit-learn, statsmodels, seaborn) · SQL (DuckDB) · R · Jupyter · Git
 
 ## 🤝 Connect
-[LinkedIn](www.linkedin.com/in/wanjirurandolph)
+[LinkedIn](https://www.linkedin.com/in/wanjirurandolph)
